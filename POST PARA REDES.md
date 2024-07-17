@@ -9,9 +9,14 @@
 
 ---
 
-🔍 **Hashtags:**
-#CienciaParaNiños #InteligenciaArtificial #EducaciónInnovadora #TecnologíaEnEducación #PadresYEducadores
+**Hashtags:**
 
-📢 **Menciones:**
-@NombreDeLaRevista
+- #CienciaParaNiños
+- #InteligenciaArtificial
+- #EducaciónInnovadora
+- #TecnologíaEnEducación
+- #PadresYEducadores
 
+**Menciones:**
+
+- @NombreDeLaRevista
