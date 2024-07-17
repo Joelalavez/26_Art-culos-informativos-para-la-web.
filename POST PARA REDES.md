@@ -5,7 +5,7 @@
 
 ¿Quieres que tus hijos desarrollen habilidades críticas y creativas desde temprana edad? La inteligencia artificial puede ser la herramienta perfecta para hacer la ciencia más divertida y accesible. Descubre cómo integrar la IA en su educación con actividades prácticas y consejos útiles.
 
-👉 **Lee el artículo completo aquí**: [https://github.com/Joelalavez/26_Articulos-informativos-para-la-web..git]
+👉 **Lee el artículo completo aquí**: [Enlace al Artículo]
 
 ---
 
@@ -14,3 +14,4 @@
 
 📢 **Menciones:**
 @NombreDeLaRevista
+
