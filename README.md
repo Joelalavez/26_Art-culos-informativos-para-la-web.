@@ -1,5 +1,5 @@
 # Fomentando la Educación Científica con Inteligencia Artificial en Niños de 8 a 10 Años
-
+![Padre e hijo aprendiendo en una tableta electronia](BEDU_EJERCICIO_E_26_ART_INF.jpg)
 La educación científica es fundamental para el desarrollo de habilidades críticas y creativas en los niños. Con el avance de la tecnología, la inteligencia artificial (IA) se ha convertido en una herramienta poderosa para enriquecer este aprendizaje. Este artículo está diseñado para padres que desean introducir a sus hijos al fascinante mundo de la ciencia y la IA, utilizando un enfoque profesional, didáctico y terapéutico.
 
 ## La Magia de la Inteligencia Artificial en la Educación Científica
